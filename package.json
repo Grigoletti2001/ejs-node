@@ -1,0 +1,22 @@
+{
+  "name": "ejs-node",
+  "version": "1.0.0",
+  "description": "An chat application built with NodeJS, ExpressJS, Socket-IO and jQuery to build a powerful chat application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grigoletti2001/ejs-node.git"
+  },
+  "author": "Joseph Grigoletti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Grigoletti2001/ejs-node/issues"
+  },
+  "homepage": "https://github.com/Grigoletti2001/ejs-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
